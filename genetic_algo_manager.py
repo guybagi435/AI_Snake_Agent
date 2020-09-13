@@ -1,4 +1,4 @@
-from SnakeGame import *
+mfrom SnakeGame import *
 from agent import agent
 from curses import wrapper as wrap
 import random
