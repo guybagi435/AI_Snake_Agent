@@ -12,8 +12,11 @@ the paradigm goes as follows:
    a vanilla neural network with random parameters.for the sake of this explanation the NN is the brain of the agent,and the parametes are the agent's DNA.
 
 2) in each generation(the number of generations is defined by the user):
+
     a.each agent plays a fixed number of games(also defined by the user),after which a score is being given to him based on his performance.
+    
     b.The agents with the highest scores(top 10% based on the score) are picked in order to reproduce.
+    
     c.The next generation's population will consists of the children of those agents.
 
 
