@@ -20,9 +20,9 @@ the paradigm goes as follows:
     c.The next generation's population will consists of the children of those agents.
 
 
-    Player/Agent: an object cosists of few attributes and few mathodes.
+Player/Agent: an object cosists of few attributes and few mathodes.
     
-    Reproducing process: creating a new agent with the DNA(parameters) of his father+ some noise.`
+Reproducing process: creating a new agent with the DNA(parameters) of his father+ some noise.`
 
 
 
